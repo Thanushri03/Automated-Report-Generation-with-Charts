@@ -143,11 +143,6 @@ The generated report includes:
 * For large files, adjust chunk size and overlap for best performance.
 * The report generator supports automatic chart creation for numerical data (bar, line, or pie).
 
----
-
-## License
-
-This project is released under the **MIT License**. You are free to use, modify, and distribute it with attribution.
 
 ---
 
